@@ -1,0 +1,8 @@
+{
+  "latex-workshop.latex.autoBuild.run": "never",
+  "latex-workshop.latex.recipe.default": "latexmk", // recipes that is called on build 
+  "latex-workshop.chktex.enabled": true,
+  "latex-workshop.chktex.delay": 500,
+  "latex-workshop.latex.outDir": "%DIR%/build",
+  "editor.formatOnSave": true
+}
